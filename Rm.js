@@ -1,7 +1,7 @@
 const studentName = "Rhiza Mae Dacutanan";
-const studentId = "2026-89412";
+const studentId = "2024-302-1";
 const universityName = "NorthWest Samar State University";
-const maxSemesterCredits = 24;
+const maxSemesterCredits = 18;
 const passingGrade = 75;
 const baseDegree = "BS Information Technology";
 const defaultCampus = "Main Campus";
@@ -10,12 +10,12 @@ const systemVersion = "v3.1.0";
 const accessRole = "Student";
 
 
-let currentSemester = "2nd Semester";
+let currentSemester = "1st Semester";
 let gpa = 1.45;
 let totalCreditsEarned = 84;
 let enrollmentStatus = "Enrolled";
-let activeSubject = "Web Development 2";
-let totalStudyHours = 320;
+let activeSubject = "Mobile Programming 1";
+let totalStudyHours = 18;
 let libraryBooksChecked = 3;
 let labAccessGranted = true;
 let currentTuitionBalance = 0;

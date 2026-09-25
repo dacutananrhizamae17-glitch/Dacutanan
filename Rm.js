@@ -25,7 +25,7 @@ let preferredTheme = "Dark Mode";
 const profilePrimary = {
   id: studentId,
   fullName: studentName,
-  contact: { email: "rhizamae.dacutanan@email.com", phone: "+63-912-345-6789" },
+  contact: { email: "rhizamae.dacutanan@email.com", phone: "0946-190-9128" },
   scholarship: { name: "Academic Excellence", status: "Active" }
 };
 

@@ -29,7 +29,7 @@ const profilePrimary = {
   scholarship: { name: "Academic Excellence", status: "Active" }
 };
 
-const profileSecondary = { id: "2026-89413", fullName: "Joven Coranes" };
+const profileSecondary = { id: "2026-89413", fullName: "Joven V. Coranes" };
 
 const semester1Courses = [
   { code: "IT101", title: "Intro to Computing", grade: 92, credits: 3 },

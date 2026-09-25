@@ -19,7 +19,7 @@ let totalStudyHours = 18;
 let libraryBooksChecked = 3;
 let labAccessGranted = true;
 let currentTuitionBalance = 0;
-let preferredTheme = "Dark Mode";
+let preferredTheme = "Light Mode";
 
 
 const profilePrimary = {
@@ -29,7 +29,7 @@ const profilePrimary = {
   scholarship: { name: "Academic Excellence", status: "Active" }
 };
 
-const profileSecondary = { id: "2026-89413", fullName: "Maria Santos" };
+const profileSecondary = { id: "2026-89413", fullName: "Joven Coranes" };
 
 const semester1Courses = [
   { code: "IT101", title: "Intro to Computing", grade: 92, credits: 3 },
